@@ -1,2 +1,1 @@
-language = "java10"
-run = "node server.js"
+language = "Python 3.6"
